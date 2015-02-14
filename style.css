@@ -1,0 +1,46 @@
+h1 {
+	font-weight: bolder;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.part {
+
+	font-weight: bold;
+	text-align: center;
+	font-size: 20;
+	border: 5px solid;
+	border-radius: 10px;
+	background-color: #ADBDCE;
+
+
+}
+.subject-title {
+	font-weight: bold;
+	text-align: center;
+	background-color: #B5B5C1;
+	border-radius: 10px;
+}
+
+.content {
+	font-size: 15px;
+	font-family: helvetica;
+}
+
+.section {
+	position:relative;
+	margin-bottom: 25px;
+	border-style:solid;
+	border-width: 10px;
+	border-radius: 10px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom: 10px;
+}
+
+#intro {
+	font-size: 2opx;
+	font-family: helvetica;
+	text-align: justify;
+	padding: 10px
+}
